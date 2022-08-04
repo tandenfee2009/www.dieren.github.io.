@@ -1,0 +1,58 @@
+header {
+width: 100%;
+height: 200px;
+background-color: #FF0000;
+}
+footer {
+width: 100%;
+height: 200px;
+background-color: blue;
+}
+#kat{
+color: #009900;
+}
+#hond{
+color: #FF33CC;
+}
+#pony{
+color: #0033CC;
+}
+#konijn{
+color: #FFFF00;
+}
+#vis{
+color: #FF9900;
+}
+#vogel{
+color: #CC3300;
+}
+#cavia{
+color: #CC9900;
+}
+#koe{
+color: #009900;
+}
+#kat1{
+background-color: #FFCC66;
+}
+#hond1{
+background-color: #FFFF99;
+}
+#pony1{
+background-color: #33FF99;
+}
+#konijn1{
+background-color: #FF9900;
+}
+#vis1{
+background-color: #330000;
+}
+#vogel1{
+background-color: #CC3300;
+}
+#cavia1{
+background-color: #9966CC;
+}
+#koe1{
+background-color: #3333FF;
+}
